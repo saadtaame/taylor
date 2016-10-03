@@ -32,4 +32,4 @@ The program outputs:
 [ +4.054651e-001 +6.666667e-001 -2.222222e-001 ]
 </pre>
 
-This is very useful if you want to check your calculus homework. This tool will be extended by adding support for new functions.
+This is very useful if you want to check your calculus homework. This tool will be extended by adding support for new functions. A little exercise to get yourself familiar with the tool is to write a small function to compute the `n'th` order derivative of some function (expressible using the supported functions).
