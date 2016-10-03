@@ -1,5 +1,5 @@
 # taylor
-Routines for manipulating Taylor series. These are useful for computing higher order derivatives for example.
+Routines for manipulating Taylor series. These are useful for computing higher order derivatives for example. The tool is written in Google's Go programming language.
 
 # API
 * Creating constants and variables
