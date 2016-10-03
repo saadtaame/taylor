@@ -1,5 +1,5 @@
 # taylor
-Routines for manipulating Taylor series. These are useful for computing higher order derivatives.
+Routines for manipulating Taylor series. These are useful for computing higher order derivatives for example.
 
 # API
 * Creating constants and variables
